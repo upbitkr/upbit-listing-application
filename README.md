@@ -4,7 +4,7 @@ This repository provides an independent overview of the Upbit token listing appl
 
 This project is for informational and educational purposes only and is not affiliated with, endorsed by, or operated by Upbit or any related entity.
 
----
+--- 
 
 ## What Is the Upbit Listing Application?
 
